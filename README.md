@@ -10,7 +10,7 @@ A deep learning project that classifies brain MRI scans into four classes: **gli
 |---|---|---|
 | **Custom CNN (final model)** | **82.52%** | Macro F1 0.82 |
 | MobileNetV2 (frozen base) | 80.49% | Higher validation accuracy, lower on test |
-| MobileNetV2 (fine-tuned) | XX.XX% | Overfitted on this small dataset |
+| MobileNetV2 (fine-tuned) | 86.18 % | Overfitted on this small dataset |
 
 Per-class results of the custom CNN on the test set:
 
